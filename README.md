@@ -1,2 +1,2 @@
-# Tower of Hanoi
+# Tower of Hanoi.
 This is my first Git Repository.
